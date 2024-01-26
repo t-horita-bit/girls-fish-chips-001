@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1048343674390",
+    "firebase_url": "https://girls-fish-chips-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "girls-fish-chips",
+    "storage_bucket": "girls-fish-chips.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048343674390:android:e481689507cb3397687f37",
+        "android_client_info": {
+          "package_name": "com.horita.gfc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048343674390-dm0vbvoqdu95be8vmi00i2nvkr78pe1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzkWb0xzveaVOuyFRK1Eq8bBY-OyYqKQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048343674390-dm0vbvoqdu95be8vmi00i2nvkr78pe1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
